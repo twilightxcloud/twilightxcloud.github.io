@@ -1,4 +1,4 @@
-<sub><sub><img src="https://i.imgur.com/P6mh9J2.png" width="20" height="auto"></sub></sub> : my website  
-> `currently exploring html`  
+<sub><sub><img src="https://cdn.discordapp.com/emojis/921181882920615956.gif?size=80" width="20" height="auto"></sub></sub> my website  
+> `just an experiment !`  
 
- thanks 4 visiting <3
+ thanks 4 visiting `<3`
